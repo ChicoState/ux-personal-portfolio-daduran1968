@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+Hey! My name is Dominick Duran, I am currently a 5th-year undergrad at Chico State in Communication Design with a minor in Photograph. I usually am working on side projects such as social media posts, and posters, or cleaning up past UI/UX projects.
 
 ## UX Team Project
 
