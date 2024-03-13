@@ -1,5 +1,6 @@
 
 The Simple yet confusing Adobe Captive
+By Dominick Duran created: 3/12/24
 ![Captivate svg](https://github.com/ChicoState/ux-personal-portfolio-daduran1968/assets/157514880/f1dccd4b-bbed-4805-a40d-aaf9c1ba5abc)
 
 When I was creating my senior project last semester I had this idea to include an interactive game. My senior project was about the spread of fake news and the dangers that come from it. I wanted to have a simple score-tracking game that had a mix of ABCD questions and true or false questions. I do not know how to code so the problem I was facing was creating an interactive game without the necessity of needing to know how to code. Overall it did the job however, it came with a lot of backtracking and tutorials. When I first opened it, it seemed to have a similar UI as Google Slides so I tried adding more slides for the rest of the questions on the left side panel with the plus icon. However, when you try adding a slide it has you choose what type of slide rather than just adding a slide. This made it less efficient although I could copy and paste those slides. 
