@@ -1,5 +1,5 @@
 
-The Simple yet confusing Adobe Captive
+The simple yet confusing Adobe Captive
 By Dominick Duran created: 3/12/24
 ![Captivate svg](https://github.com/ChicoState/ux-personal-portfolio-daduran1968/assets/157514880/f1dccd4b-bbed-4805-a40d-aaf9c1ba5abc)
 
